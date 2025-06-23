@@ -3,7 +3,7 @@ Market entry data strategy for AfriFoods Ltd to launch a premium rice brand in W
 
 **Client**: AfriFoods Ltd  
 **Role**: Data Strategist  
-**Tools**: Microsoft Excel
+**Tool**: Microsoft Excel
 
 **Note:This is a simulated business case to showcase my data strategy and market-entry analysis skills.**
 
