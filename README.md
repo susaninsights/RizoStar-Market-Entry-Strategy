@@ -10,6 +10,10 @@ Market entry data strategy for AfriFoods Ltd to launch a premium rice brand in W
 ##  Project Summary
 RizoStar is a market-entry data analysis project where I cleaned and analyzed over 2,000 rows of messy rice sales data across four major West African cities (Accra, Lagos, Kumasi, Abuja) and compared eight rival rice brands. By engineering custom KPIs such as Market Share, Price Premium, Conversion Rate, and Performance Tag, I uncovered that **Kumasi has 15% higher demand than Lagos**, **Long Grain rice generates over 60% of total revenue**, and that customers tolerate paying 10% more for trusted brands. Based on this, I recommended launching **RizoStar’s premium Long Grain rice in Kumasi at ₦17,558 per bag**, positioned slightly above the city average, to capture maximum profit and market share.
 
+##  Download the Full Excel File
+[RizoStar_MarketEntry.xlsx](RizoStar_MarketEntry.xlsx)  
+Includes: raw data, cleaned data, pivot tables, and the final dashboard.
+
 ##  Key Steps
 
 ### Data Cleaning & Preparation
@@ -36,7 +40,7 @@ RizoStar is a market-entry data analysis project where I cleaned and analyzed ov
 | **Price Band Analysis** | _Simple Column Chart_ | Compares suggested RizoStar launch price **(₦17,558)** to competitors’ average **(₦15,962.13)** supports premium positioning. |
 
 ###  Dashboard Preview
-
+[RizoStar Dashboard](screenshots/rizostar_dashboard.png)
 
 ##  Final Recommendation
 
@@ -48,7 +52,7 @@ RizoStar is a market-entry data analysis project where I cleaned and analyzed ov
 ##  Repository Structure
 
 - [RizoStar_MarketEntry.xlsx](RizoStar_MarketEntry.xlsx)- Raw data, cleaned data, pivot tables, final dashboard (all sheets included)
-- ![RizoStar Dashboard](screenshots/rizostar_dashboard.png)- Dashboard and chart previews
+- [RizoStar Dashboard](screenshots/rizostar_dashboard.png)- Dashboard and chart previews
 - `README.md` — Project overview and findings
 
 ##  Business Outcome
