@@ -47,8 +47,8 @@ RizoStar is a market-entry data analysis project where I cleaned and analyzed ov
 
 ##  Repository Structure
 
-- [RizoStar_MarketEntry.xlsx](RizoStar_MarketEntry.xlsx) Raw data, cleaned data, pivot tables, final dashboard (all sheets included)
-- [rizostar_dashboard](screenshots/rizostar_dashboard.png) - Dashboard and chart previews
+- [RizoStar_MarketEntry.xlsx](RizoStar_MarketEntry.xlsx)- Raw data, cleaned data, pivot tables, final dashboard (all sheets included)
+- ![RizoStar Dashboard](screenshots/rizostar_dashboard.png)- Dashboard and chart previews
 - `README.md` — Project overview and findings
 
 ##  Business Outcome
