@@ -4,6 +4,7 @@ Market entry data strategy for AfriFoods Ltd to launch a premium rice brand in W
 **Client**: AfriFoods Ltd  
 **Role**: Data Strategist  
 **Tools**: Microsoft Excel
+
 **Note:This is a simulated business case to showcase my data strategy and market-entry analysis skills.**
 
 ##  Project Summary
@@ -47,7 +48,7 @@ RizoStar is a market-entry data analysis project where I cleaned and analyzed ov
 ##  Repository Structure
 
 - [RizoStar_MarketEntry.xlsx](RizoStar_MarketEntry.xlsx) Raw data, cleaned data, pivot tables, final dashboard (all sheets included)
-- [rizoStar_dashboard](screenshots/rizostar_dashboard.png) - Dashboard and chart previews
+- [rizostar_dashboard](screenshots/rizostar_dashboard.png) - Dashboard and chart previews
 - `README.md` — Project overview and findings
 
 ##  Business Outcome
