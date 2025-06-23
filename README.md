@@ -35,7 +35,7 @@ RizoStar is a market-entry data analysis project where I cleaned and analyzed ov
 | **Price Band Analysis** | _Simple Column Chart_ | Compares suggested RizoStar launch price **(₦17,558)** to competitors’ average **(₦15,962.13)** supports premium positioning. |
 
 ###  Dashboard Preview
-![RizoStar Dashboard](screenshots/rizostar_dashboard.png)
+
 
 ##  Final Recommendation
 
@@ -47,7 +47,7 @@ RizoStar is a market-entry data analysis project where I cleaned and analyzed ov
 ##  Repository Structure
 
 - `Susan_RizoStar_Project.xlsx` — Raw data, cleaned data, pivot tables, final dashboard (all sheets included)
-- `screenshots/` — Dashboard and chart previews
+- `RIZOSTAR DASHBOARD` — Dashboard and chart previews
 - `README.md` — Project overview and findings
 
 ##  Business Outcome
